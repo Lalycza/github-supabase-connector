@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- The root route embeds `public/implanta-preview.html` to preview the published standalone IMPLANTA v35 experience without mixing its global script with TanStack routes.
