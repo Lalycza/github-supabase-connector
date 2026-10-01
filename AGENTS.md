@@ -10,3 +10,4 @@
 <!-- LOVABLE:END -->
 
 - The root route embeds `public/implanta-preview.html` to preview the published standalone IMPLANTA v35 experience without mixing its global script with TanStack routes.
+- Demand lifecycle records are append-only events; corrections must be new events so reports preserve the full audit trail.
